@@ -1,0 +1,18 @@
+﻿  MemMgmSAandSM.cpp
+C:\Users\Winona\Workspace\MemMgmSAandSM\MemMgmSAandSM\MemMgmSAandSM.cpp(108,26): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Winona\Workspace\MemMgmSAandSM\MemMgmSAandSM\MemMgmSAandSM.cpp(101): message : while compiling class template member function 'SA<S> &SA<S>::operator =(SA<S> &)'
+          with
+          [
+              S=int
+          ]
+C:\Users\Winona\Workspace\MemMgmSAandSM\MemMgmSAandSM\MemMgmSAandSM.cpp(343): message : see reference to function template instantiation 'SA<S> &SA<S>::operator =(SA<S> &)' being compiled
+          with
+          [
+              S=int
+          ]
+C:\Users\Winona\Workspace\MemMgmSAandSM\MemMgmSAandSM\MemMgmSAandSM.cpp(421): message : see reference to class template instantiation 'SA<S>' being compiled
+          with
+          [
+              S=int
+          ]
+  MemMgmSAandSM.vcxproj -> C:\Users\Winona\Workspace\MemMgmSAandSM\Debug\MemMgmSAandSM.exe
